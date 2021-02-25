@@ -7,14 +7,6 @@
 </p>
 Tabela de conteúdos
 =================
-<!--ts-->
-   * [Sobre](#sobre)
-   * [Objetivo](#objetivo)
-   * [Instalação](#instalacao)
-   * [Tecnologias](#tecnologias)
-   * [Autor](#autor)
-<!--te-->
-
 <p align="center">
  <a href="#sobre">Sobre</a> •
  <a href="#roadmap">Roadmap</a> • 
@@ -24,5 +16,6 @@ Tabela de conteúdos
  <a href="#autor">Autor</a>
 </p>
 
-#sobre 
-a
+<h2 name="sobre" align="center">
+    a
+ </h2>
