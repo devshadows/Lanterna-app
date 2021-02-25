@@ -5,15 +5,14 @@
 <p align="center">
 <img src="https://img.shields.io/badge/react--native-0.63.4-blue"> <img src= "https://img.shields.io/badge/react--native--torch-1.2.0-green">
 </p>
-Tabela de conteúdos
+Tabela de conteúdos <br>
 =================
 <h4>
- <a href="#sobre">Sobre</a> •
- <a href="#bbjetivo">Objetivo</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
+ • <a href="#sobre">Sobre</a> <br>
+ • <a href="#objetivo">Objetivo</a>  <br>
+ • <a href="#tecnologias">Tecnologias</a>  <br> 
+ • <a href="#contribuicao">Contribuição</a>  <br>
+ • <a href="#autor">Autor</a>  <br>
 </h4>
 
 <h2 name="sobre" align="center">
