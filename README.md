@@ -18,7 +18,8 @@ Tabela de conteúdos
       * [Multiple files](#multiple-files)
       * [Combo](#combo)
    * [Tests](#testes)
-   * [Tecnol
+   * [Tecnologias](#tecnologias)
+<!--te-->
 
 <h2 name="sobre" align="center">
     a
