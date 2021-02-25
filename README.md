@@ -5,6 +5,15 @@
 <p align="center">
 <img src="https://img.shields.io/badge/react--native-0.63.4-blue"> <img src= "https://img.shields.io/badge/react--native--torch-1.2.0-green">
 </p>
-<h4 align="center"> 
-	🚧  Projeto Lanterna 🚀 Concluído!  🚧
-</h4>
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre](#sobre)
+   * [Objetivo](#objetivo)
+   * [Instalação](#instalacao)
+   * [Tecnologias](#tecnologias)
+   * [Autor](#autor)
+<!--te-->
+
+#sobre 
+a
