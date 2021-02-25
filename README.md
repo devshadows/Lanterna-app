@@ -7,19 +7,14 @@
 </p>
 Tabela de conteúdos
 =================
-<!--ts-->
-   * [Sobre](sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
+<h4>
+ <a href="#sobre">Sobre</a> •
+ <a href="#bbjetivo">Objetivo</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#contribuicao">Contribuição</a> • 
+ <a href="#licenc-a">Licença</a> • 
+ <a href="#autor">Autor</a>
+</h4>
 
 <h2 name="sobre" align="center">
     a
