@@ -5,15 +5,20 @@
 <p align="center">
 <img src="https://img.shields.io/badge/react--native-0.63.4-blue"> <img src= "https://img.shields.io/badge/react--native--torch-1.2.0-green">
 </p>
-<h3>
-    Tabela de conteúdos <br>
- • <a href="#sobre">Sobre</a> <br>
- • <a href="#roadmap">Roadmap</a>  <br>
- • <a href="#tecnologias">Tecnologias</a>  <br>
- • <a href="#contribuicao">Contribuição</a> <br>
- • <a href="#licenc-a">Licença</a> <br>
- • <a href="#autor">Autor</a> <br>
-</h3>
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre](#Sobre)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Instalação](#instalacao)
+   * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+   * [Tests](#testes)
+   * [Tecnol
 
 <h2 name="sobre" align="center">
     a
