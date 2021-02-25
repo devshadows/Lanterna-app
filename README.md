@@ -5,9 +5,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/react--native-0.63.4-blue"> <img src= "https://img.shields.io/badge/react--native--torch-1.2.0-green">
 </p>
-Tabela de conteúdos <br>
-=================
 <h4>
+    Tabela de conteúdos <br>
  • <a href="#sobre">Sobre</a> <br>
  • <a href="#objetivo">Objetivo</a>  <br>
  • <a href="#tecnologias">Tecnologias</a>  <br> 
