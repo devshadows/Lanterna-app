@@ -5,9 +5,9 @@
 <p align="center">
 <img src="https://img.shields.io/badge/react--native-0.63.4-blue"> <img src= "https://img.shields.io/badge/react--native--torch-1.2.0-green">
 </p>
-Tabela de conteúdos
-=================
 <p align="center">
+    Tabela de conteúdos
+    =================
  <a href="#sobre">Sobre</a> •
  <a href="#roadmap">Roadmap</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
