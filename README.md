@@ -25,10 +25,9 @@
  <h2 name="tecnologias" align="center">
     🔧Tecnologias
 </h2>
-<h4>
+
     ### Features
 - [x] Navegação entre telas <br>
 - [x] Uso de libs que não são nativas <br>
 - [ ] Uso das boas práticas do Clean Code <br>
 - [ ] Design avançado <br>
-</h4>
