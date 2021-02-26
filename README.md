@@ -39,7 +39,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React Native Torch](https://github.com/ludo/react-native-torch)
 - [React Navigation Stack](https://www.npmjs.com/package/react-navigation-stack)
 
-   Features
 - [x] Navegação entre telas <br>
 - [x] Uso de libs que não são nativas <br>
 - [ ] Uso das boas práticas do Clean Code <br>
