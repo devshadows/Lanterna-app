@@ -26,7 +26,7 @@
     🔧Tecnologias
 </h2>
 
-    ### Features
+    Features
 - [x] Navegação entre telas <br>
 - [x] Uso de libs que não são nativas <br>
 - [ ] Uso das boas práticas do Clean Code <br>
