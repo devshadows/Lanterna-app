@@ -18,16 +18,16 @@
 <h2 name="sobre" align="center">
     💻Sobre
 </h2>
- <h3>
+ <h4>
     Este projeto foi feito em uma semana, de maneira independente e com ajuda de alguns fóruns e grupos pela internet.
     Projeto simples e com principal intuito de aprender mais.
- </h3>
+ </h4>
  <h2 name="tecnologias" align="center">
     🔧Tecnologias
 </h2>
-<h3>
-- [x] Navegação entre telas
-- [x] Uso de libs que não são nativas
-- [ ] Uso das boas práticas do Clean Code
-- [ ] Design avançado
-</h3>
+<h4>
+- [x] Navegação entre telas <br>
+- [x] Uso de libs que não são nativas <br>
+- [ ] Uso das boas práticas do Clean Code <br>
+- [ ] Design avançado <br>
+</h4>
