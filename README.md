@@ -11,7 +11,7 @@
  • <a href="#sobre">Sobre</a> <br>
  • <a href="#objetivo">Objetivo</a>  <br>
  • <a href="#tecnologias">Tecnologias</a>  <br> 
- • <a href="#contribuicao">Contribuição</a>  <br>
+ • <a href="#instalação">Instalação</a>  <br> 
  • <a href="#autor">Autor</a>  <br>
 </h4>
 
@@ -22,14 +22,28 @@
     Este projeto foi feito em uma semana, de maneira independente e com ajuda de alguns fóruns e grupos pela internet.<br>
     Projeto simples e com principal intuito de aprender mais.
  </h4>
+ <h2 name="objetivo" align="center">
+    🚀Objetivo
+    </h2>
+    <h4>
+    Projeto feito com o objetivo de aprender mais sobre a navegação entre telas, sobre libs não nativas e sobre a lógica dos states e botões toggles.
+    </h4>
  <h2 name="tecnologias" align="center">
     🔧Tecnologias
 </h2>
 
-    Features
 - [x] Navegação entre telas <br>
 - [x] Uso de libs que não são nativas <br>
 - [ ] Uso das boas práticas do Clean Code <br>
 - [ ] Design avançado <br>
   
+ <h2 name="autor" align="center">
+    ❤️Autor
+    </h2>
+    <h4>
+    Olá meu nome é Matheus, tenho 14 anos e sou um desenvolvedor Android! <br>
+    Meu foco é aprender mais sobre as tecnologias usadas no mercado mobile e poder um dia ser contratado como Dev Júnior.
+    Se tiver qualquer dúvida sobre o projeto ou quiser me chamar, é só me adicionar no Discord: matt'#8883
+    </h4>
+    
   
