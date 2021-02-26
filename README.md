@@ -31,3 +31,5 @@
 - [x] Uso de libs que não são nativas <br>
 - [ ] Uso das boas práticas do Clean Code <br>
 - [ ] Design avançado <br>
+  
+  
