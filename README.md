@@ -19,13 +19,14 @@
     💻Sobre
 </h2>
  <h4>
-    Este projeto foi feito em uma semana, de maneira independente e com ajuda de alguns fóruns e grupos pela internet.
+    Este projeto foi feito em uma semana, de maneira independente e com ajuda de alguns fóruns e grupos pela internet.<br>
     Projeto simples e com principal intuito de aprender mais.
  </h4>
  <h2 name="tecnologias" align="center">
     🔧Tecnologias
 </h2>
 <h4>
+    ### Features
 - [x] Navegação entre telas <br>
 - [x] Uso de libs que não são nativas <br>
 - [ ] Uso das boas práticas do Clean Code <br>
