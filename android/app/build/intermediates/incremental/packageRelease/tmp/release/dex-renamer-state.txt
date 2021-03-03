@@ -1,0 +1,4 @@
+#Sat Feb 27 17:58:36 BRT 2021
+base.0=C\:\\Users\\ranni\\Desktop\\lanterna\\app\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
